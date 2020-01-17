@@ -1,0 +1,33 @@
+{
+  "name": "buidler-reference-project",
+  "version": "0.0.1",
+  "description": "Buidler reference project to showcase Superblocks functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperblocksHQ/buidler-reference-project.git"
+  },
+  "keywords": [
+    "blockchain",
+    "ethereum",
+    "deployments",
+    "build",
+    "buidler",
+    "devops"
+  ],
+  "author": "Superblocks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuperblocksHQ/buidler-reference-project/issues"
+  },
+  "homepage": "https://github.com/SuperblocksHQ/buidler-reference-project#readme",
+  "devDependencies": {
+    "@nomiclabs/buidler": "^1.0.2",
+    "@nomiclabs/buidler-truffle5": "^1.0.2",
+    "@nomiclabs/buidler-web3": "^1.0.2",
+    "web3": "^1.2.4"
+  }
+}
